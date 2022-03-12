@@ -1,5 +1,5 @@
 # Component
-dist
+# dist # commit the dist folder so I can require from git
 
 # Logs
 npm-debug.log*
